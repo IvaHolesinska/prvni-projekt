@@ -4,7 +4,11 @@ body {
 }
 
 .obsah {
-    width: 50%;
-    height: 100%;
     background-color: white;
+    border: 15px solid gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+.div {margin-left: 50px;}
+
